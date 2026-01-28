@@ -4,6 +4,8 @@
 *.csv
 *.xlsx
 
+*.DS_Store
+
 # =================================
 # part from R template 
 
